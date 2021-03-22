@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\study\\\\fed-e-task-03-03\\\\pages\\\\layouts",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "D:\\\\study\\\\fed-e-task-03-03\\\\pages\\\\home",
+        "_name": "_1012395e"
+      },
+      {
+        "path": "login",
+        "name": "login",
+        "component": "D:\\\\study\\\\fed-e-task-03-03\\\\pages\\\\login",
+        "_name": "_071dcf37"
+      },
+      {
+        "path": "register",
+        "name": "register",
+        "component": "D:\\\\study\\\\fed-e-task-03-03\\\\pages\\\\login",
+        "_name": "_071dcf37"
+      },
+      {
+        "path": "setting",
+        "name": "setting",
+        "component": "D:\\\\study\\\\fed-e-task-03-03\\\\pages\\\\setting",
+        "_name": "_18de329e"
+      },
+      {
+        "path": "editor",
+        "name": "editor",
+        "component": "D:\\\\study\\\\fed-e-task-03-03\\\\pages\\\\editor",
+        "_name": "_5fdf8942"
+      },
+      {
+        "path": "article/:slug",
+        "name": "article",
+        "component": "D:\\\\study\\\\fed-e-task-03-03\\\\pages\\\\article",
+        "_name": "_76d7f144"
+      },
+      {
+        "path": "profile/:username",
+        "name": "profile",
+        "component": "D:\\\\study\\\\fed-e-task-03-03\\\\pages\\\\profile",
+        "_name": "_dfe4a412"
+      }
+    ],
+    "_name": "_bff8e252"
+  }
+]
